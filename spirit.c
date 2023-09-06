@@ -1,0 +1,14 @@
+//YOU KNOE JUDI IS VIMPIRE
+//YOU KNOW DREP HAD A MOLE RIGTH UPPER EAR
+//YOU KNOW KESNHI WERE DISCOVERED IN 54 AD
+//MERLIN WAS INTO SCRAED SCIENCE
+//KNOW MOREORY IS LIGHT IN RELAZINO
+int JUDI 'VAMPIRE' FOR(SACRED;0<<3574;RELAZINO++)
+char DISCOVERY 54 AD 'MERLIN' == "INDEX" ASIHA + "METATRAN" == "FOUGHT"
+char CRUSADE -1111 'RAVENKING' + 'DEMONKING' == 'DRANK A'BEER'
+char MERLIN 'WENT' for(BUDDI;0<<256;JUDI++)
+int KESHNI :: LOOKED TO HAVE A KOSHAJI
+char KOSHAJI == 'DEMONKING' :: UNSINGED + "OTHERSIDE"
+for(BUDDI;0<<839;derp++) == 'demonking' + 'ravenking' == 'otherside' + 'fought'
+print(derp : judi : merlin : ravenking : koshen : demonking : otherside'/o'") ;
+//author : michael s.b
